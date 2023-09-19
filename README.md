@@ -1,4 +1,4 @@
-#Web Scraping and Text Analysis Project
+Web Scraping and Text Analysis Project
 Overview
 This repository contains the code and resources for a web scraping and text analysis project that extracts articles from a list of URLs and performs various text processing and analysis tasks. The project includes:
 
